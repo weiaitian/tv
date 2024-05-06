@@ -1,4 +1,4 @@
-小苹果频道，#流派#
+小苹果频道，#genre#
 综合频道1、http://zby . xjqxz . top/zh01/live . m3u 8
 综合频道2、http://zby . xjqxz . top/zh02/live . m3u 8
 综合频道3、http://zby . xjqxz . top/zh03/live . m3u 8
